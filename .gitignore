@@ -1,0 +1,7 @@
+# Ignore Aadhaar and other sensitive PDFs
+aadhar.pdf
+*.pdf
+uploads/
+.env
+node_modules/
+package-lock.json
